@@ -9,3 +9,4 @@ Read more about xMocky here: https://www.facebook.com/xMockyCyber/
 **SUGGESTION** - Run on this on a reverse engineer VM LAB.
 
 ![alt text](https://raw.githubusercontent.com/Identifiable/CTFTokyoGloo/master/1.png)
+![alt text](https://raw.githubusercontent.com/Identifiable/CTFTokyoGloo/master/2.png)
