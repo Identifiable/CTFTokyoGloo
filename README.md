@@ -7,3 +7,5 @@ This repository lists the easiest challenge made by the xMocky team. The missing
 Read more about xMocky here: https://www.facebook.com/xMockyCyber/
 
 **SUGGESTION** - Run on this on a reverse engineer VM LAB.
+
+![alt text](https://raw.githubusercontent.com/Identifiable/CTFTokyoGloo/master/1.png)
